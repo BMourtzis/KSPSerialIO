@@ -218,5 +218,5 @@ pip-log.txt
 KSPresources
 # Local build artifacts
 *.zip
-KSPSerialIO.version
+KSPController.version
 
